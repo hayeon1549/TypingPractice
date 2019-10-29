@@ -1,0 +1,20 @@
+Java began in 1991 with the language "Oak," invented by James Gosling with other researchers at Sun Microsystems.
+Oak was initially intended to be used in consumer electronics, but was used as a programming language on the Internet 
+with the advent of the Internet and renamed Java.
+In 1995, Java 1.0 was announced and promised "Write Once, Run Anywhere".
+From 1995 to 1999, Java was inferior to C++ as development of Windows programs was the mainstream. 
+There was also a problem with overusing memory and CPU.
+However, since 1999, Java has been activated for Web application deployment with the Internet activated.
+Because Java was the only language that could be practiced everywhere in a single writing process.
+Java is a highly portable language.
+Transplantability refers to the ability to move programs between systems with different execution environments.
+For example, if a program running on a Windows operating system can run on Linux or UNIX, it is highly portable.
+Java can be run on any operating system with Java Runtime Environment (JRE).
+that correspond to parts first, assemble and connect them one by one, and complete the entire program.
+The language used in object-oriented programming is called object-oriented language.
+Java creates a design-in-class to create objects, and links objects to create programs that meet their purpose.
+Java automatically manages memory.
+C++ should be coded by the developer himself to remove objects created in memory. 
+If this is not done faithfully, the program will become incomplete and experience a sudden crash.
+Java is designed to prevent developers from accessing memory directly. Memory is directly managed by Java.
+Java developers can reduce the effort of memory management and focus on writing core function codes.

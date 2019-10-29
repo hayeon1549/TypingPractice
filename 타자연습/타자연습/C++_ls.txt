@@ -1,0 +1,20 @@
+C++ was developed by Bjarne Stroustrup in the 1980s
+(Initial name C with Classes) C++ adds the OOP concept and template (STL support) function to C grammar.
+Also, C++ has enabled developers to do many things.
+As such, there is a lot of room for good code writing and poor quality code
+writing, depending on the capabilities of developers.
+Most object-oriented languages were directly influenced by Smaltalk,
+while C++ was directly influenced by Simula, who presented early object-oriented concepts.
+So there are many different parts of the language are different from other object-oriented ones, as a typical example,
+other object-oriented languages deal with a lot of them at runtime, but C++ is oriented toward compilation time.
+Also, C++ does not support garbage collection, requiring users to manage memory directly,
+making it difficult for users to develop C++ after encountering Java. Generally, performance inevitably drops
+while increasing the level of abstraction, which usually increases the level of abstraction to reduce
+the developer's work, and C++ has little performance degradation.
+In other words, this is because it was developed to capture two rabbits: performance and productivity.
+As a result, C++ developers can develop many desired tasks in a form that does not degrade performance,
+but they find it difficult because the language has a lot of things to care about (memory management).
+Typical software developed in ++ includes the majority of games, Photoshop, Starcraft Battlenet, Excel and Word.
+Also, C++ has enabled developers to do many things.
+As such, there is a lot of room for good code writing
+presented early object-oriented concepts.

@@ -1,0 +1,20 @@
+Python is an interpreter language created in 1990 by Guido Van Rossum of Amsterdam. 
+Guido is said to have taken the name Python from his favorite comedy show, "Monty Python's Flying Circus." 
+Python's dictionary meaning is a large snake living in a cave in Mount Parnassus in ancient myths
+, and it is said that Apollo had defeated Python in Delphi. 
+This is why most Python book covers and icons are drawn in the shape of snakes.
+Currently, Python is not very well known in Korea, but it is widely used not only for the purpose of 
+learning but also for practical purposes in foreign countries, a prime example of which is Google. 
+More than 50 percent of Google's software is made of Python, it said. 
+Some of the more famous things are Dropbox, Django, and so on.
+Also, because the Python program is so easy and easy to collaborate and maintain, many programs and modules 
+already written in other languages are being re-configured into Python. In Korea, the user base is expanding 
+further in recognition of its value, and companies are developing programs using Python.
+Don't you want to break away from language surrounded by difficult grammar and numerous rules? 
+Python's grammar itself is very easy and concise, and it is very similar to the way one thinks.
+With Python, a programmer can do most of the work.
+However, it is no exaggeration to say that few of these things cannot be done with Python.
+Python may also include modules in its Python program in other languages to overcome the above weaknesses. 
+There is a saying that Python and C are perfect matches. 
+In other words, the overall framework of the program is to make it Python, 
+and the part that requires a fast speed is to make it C and include it in the Python program. 

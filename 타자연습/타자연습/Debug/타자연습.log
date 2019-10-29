@@ -1,0 +1,17 @@
+﻿  sanFunc.cpp
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\sanfunc.cpp(64): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\sanfunc.cpp(162): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\sanfunc.cpp(189): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 'putch' 선언을 참조하십시오.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\sanfunc.cpp(276): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\sanfunc.cpp(179): warning C4715: 'InputKey': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  wordFunc.cpp
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\wordfunc.cpp(68): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\wordfunc.cpp(188): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\wordfunc.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\wordfunc.cpp(219): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\하연\desktop\공부\2학년\수행평가\c++\타자연습 project\타자연습\타자연습\wordfunc.cpp(236): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  타자연습.vcxproj -> C:\Users\하연\Desktop\공부\2학년\수행평가\C++\타자연습 Project\타자연습\Debug\타자연습.exe

@@ -1,0 +1,20 @@
+A basic CPL (BCPL) was born in a language called CPL that started at Cambridge University, and after the BCPL
+created the language 'B' in the United States, Dennis Richie of the same 
+Bell Lab eventually coined the language 'C,' which inherited the characteristics of the B language to control the PDP-11
+computer. The CPL's "C" stands for Cambridge University's "C" and then after it became a joint project with Imperial
+College London, it means "Combined," which, according to Strostruff's return, is what the superiors think, and for them,
+"C" has always been Christopher Stracy, the language designer of CPL. B through BCPL was named after the Bell Lab B.
+The first C compiler was simply used as an assembly language. One of the by-products from holding onto the B 
+language and wrestling several times is the C compiler, and C has also been refinanced several times by Richie.
+The problem became popular because one of the first C compilers was developed as a C interpreter and also used it to
+improve it. Some even describe it as "a mud-slinging person pulling his shoelaces out."
+++ is the operator who substitutes the variable by increasing it by one. 
+In other words, ++ increased C by 1 to replace C.
+The # in C# is (two up and down with ? two up and down) also C?, so it also got meaning from music.
+The first line of 'Trust in the Programmer' is what makes the biggest difference with other languages today.
+If today's other high-productivity languages don't trust programmers and sacrifice performance to automatically
+process the problematic parts in a compiler or virtual machine, or rigorously compile the programmer's code, C ends in a
+word, "I'll believe it and do it." Even before language C, there were many high-level languages, but they were mostly
+laboratory languages designed to target specific application areas or prove computer science theories.
+You may also benefit from inserting the assembly code into the code in terms of drive speed (but less compatible).
+The inline assembler makes this possible.

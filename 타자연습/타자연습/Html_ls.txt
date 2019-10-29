@@ -1,0 +1,20 @@
+<fieldset>
+ <legend>SIGN UP</legend>
+ NAME : <input type="text" name="name"><br><br>
+ GENDER : <input type="radio" name="sex" value="male"> MAN
+  <input type="radio" name="sex" value="female"> WOMAN
+</fieldset>
+<input type="submit" value="SEND">
+ADDRESS : <input type="text" name="adress" form="form"><br>
+<h2>CALCULATE</h2>
+<form oninput="x.value=parseInt(a.value) + parseInt(b.value),
+ y.value=parseInt(a.value) - parseInt(b.value),
+ z.value=parseInt(a.value) * parseInt(b.value),
+ t.value=parseInt(a.value) / parseInt(b.value)">
+ a: <input name="a" type="number">
+ b: <input type="number" name="b"><br><br>
+ Addition: <output name="x" for="a b"></output><br><br>
+ Subtraction: <output name="y" for="a b"></output><br><br>
+ Multiplication: <output name="z" for="a b"></output><br><br>
+ Division: <output name="t" for="a b"></output>
+</form>

@@ -1,0 +1,50 @@
+int strcasecmp(const char *s1, const char *s2);
+char *strcat(char *dest, const char *src);
+char *strchr(const char *s, int c);
+int strcmp(const char *s1, const char *s2);
+int strcoll(const char *s1, const char *s2);
+char *strcpy(char *dest, const char *src);
+size_t strcspn(const char *s, const char *reject);
+char *strdup(const char *s);
+char *strfry(char *string);
+size_t strlen(const char *s);
+char *strncat(char *dest, const char *src, size_t n); 
+int strncmp(const char *s1, const char *s2, size_t n); 
+char *strncpy(char *dest, const char *src, size_t n); 
+int strncasecmp(const char *s1, const char *s2, size_t n); 
+char *strpbrk(const char *s, const char *accept);
+char *strrchr(const char *s, int c); 
+char *strsep(char **stringp, const char *delim);
+size_t strspn(const char *s, const char *accept);
+char *strstr(const char *haystack, const char *needle);
+char *strtok(char *s, const char *delim);
+size_t strxfrm(char *dest, const char *src, size_t n); 
+char *index(const char *s, int c); 
+char *rindex(const char *s, int c);
+long getGCD(unsigned long la, unsigned long lb);
+int getMax(int ia, int ib, int ic);
+using namespace std;
+std::list iterators(begin)
+std::list iterators(cbegin)
+std::list iterators(end)
+std::list iterators(cend)
+std::list iterators(rbegin)
+std::list iterators(crbegin)
+std::list iterators(rend)
+std::list Capacity(front)
+void abort(void);
+int abs(int n);
+double acos(double x);
+char *asctime(const struct tm *time);
+char *asctime_r (const struct tm *tm, char *buf);
+double asin(double x);
+void assert(int expression);
+double atan(double x);
+double atan2(double y, double x);
+int atexit(void (*func)(void));
+wint_t btowc(int c);
+void *calloc(size_t num, size_t size);
+int catclose (nl_catd catd);
+char *catgets(nl_catd catd, int set_id, int msg_id, const char *s);.
+nl_catd catopen (const char *name, int oflag);
+std::cout << "Hello, World!!" << std::endl;

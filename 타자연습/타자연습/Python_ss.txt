@@ -1,0 +1,50 @@
+Python was invented in 1991 by Dutch mathematician Guido van Rothom.
+The name Python means a snake in Greek mythology.
+Simple grammar is easy for beginners to understand and can be used in a variety of fields.
+Python is known to be the most widely used.
+It is easy to learn and can use many libraries.
+It is simple to learn and can be used in various fields, including the commercial system.
+A rich library is the advantage of Python.
+Libraries work the same way on different platforms.
+There's a page on Python site that introduces you to the library.
+Python is an object-oriented language, but it can also be used as a procedure.
+Python is distinguished by entering phrases such as functions, definitions, and IF statements.
+Program filenames use only English, numbers, and symbols.
+Do not start with a blank space at the beginning.
+Use # to annotate and annotate # to the next line and not interpret it as a program.
+Python is capable of GUI programming.
+Python is also highly utilized in the Internet of Things (IOT).
+Python is free software.
+Python is a scripted language.
+Execute source code as it is without compilation and use repeatable objects.
+Python is easier and simpler in grammar than in other languages.
+Compared to other languages, it is highly productive and can be implemented quickly.
+Source code is very intuitive.
+It's easy to read and write.
+It can express blocks by importing.
+The source code is very short and can shorten development time.
+The name of 'Python is from the comedy <Monty's Flying Circus>.
+Web page development is also possible with Python.
+Debugging is convenient.
+The grammar is concise, but object-oriented.
+It is possible to connect with C.
+It is good for use in the development of algorithms.
+It helps with hacking.
+Easier to access programming.
+Python's name space only exists for global and local variables.
+local variables exist at the function level.
+Variables made with local variables are valid only within those variables.
+There is no concept of "college" in Python.
+If possible, do not change the value of the global variable within the function.
+It is recommended that the function only change the value of the range within the function.
+The object is Python's abstract of the data.
+"Life is short, You need Python."
+In fact, people use Python a lot as an introductory class in computer programming.
+Beautiful is better than ugly.
+Python does not have a primitive type.
+Everything is treated as an object. 
+Constants are also considered stored objects.
+Python provides a powerful function called repeatable objects.
+Grammar itself is written down.
+Be careful when you put the for, if, and else in parentheses.
+The range in Python 2 and 3 has a different return format.

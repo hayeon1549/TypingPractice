@@ -1,0 +1,50 @@
+setTimeout(function, millisecond): Run a function once after a period of time.
+setInterval(function, millisecond): Repeat the function at a given time.
+clearTimeout(id): Stop running a function once after a period of time.
+clearInterval(id): Stop repeating a function at a given time.
+escape(): Encoding only characters except English alphabet, numbers, some special characters.
+unescape(): Decode only the English alphabet, numbers, some special characters except characters.
+encodeURI(uri): Encoding only characters except some special characters used in Internet addresses.
+decodeURI(encodedURI): Decode only some special characters used for Internet addresses, excluding characters.
+encodeURIComponent(uriComponent): Encoding all characters except alphabet and number.
+decodeURIComponent(encodedURI): Decode all characters except alphabet and number.
+eval(string): Run string as JavaScript code.
+isFinite(): Check whether the number is infinite, if it is finite, return true.
+isNaN(): Make sure the number is a number, or return true if not a number.
+parseInt(string): Convert string to integer.
+parseFloat(string): Convert string to decimal.
+property : The value inside the object.
+Object properties can have any form of data type.
+method : Properties that are function data types among the properties of an object.
+Use this keyword to indicate that you have a property within the method.
+The object consists of a key (an identifier or string) and a value (an attribute).
+{ } Create object in square brackets.
+Access by key when approaching the property value of an object.
+Use an unconditional square to access when non-identifier characters are used as keys to the object.
+Return empty collection instead of null.
+Use String carefully.
+Don't create unnecessary objects.
+Array and ArrayList should be used according to purpose.
+Sometimes finally does not work either.
+Avoid MemoryLic.
+system time function
+publish the contents of a directory.
+run shell command in Java.
+Use design patterns.
+Avoid floating point numbers.
+When copying a class, you must tie the duplicate implementation with an abstruct class.
+An important function of self-use or logic makes javadoc writing a living.
+Do not use Map's contactsKey and get overlaid.
+Java does something similar to the destructor at C++.
+Use the best of object-oriented language to the fullest extent.
+Make it a habit to create log and debug message output.
+String is a reference type but has some basic type properties.
+Basic type : type of exchange for value
+Reference type : type of exchange of address value
+The date in java.util is a relatively precise representation of the date and time.
+Date.getTime() converts the date into milliseconds and returns it to long-type numeric data.
+Let's cast to avoid.
+Use StringBuffer or StringBuilder instead of String, not constant.
+Let's use a simple Boolean operator.
+For simple empty confirmation, use long() instead of equal().
+Eliminate common sub-expression
